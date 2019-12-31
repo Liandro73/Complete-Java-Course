@@ -1,0 +1,21 @@
+package br.com.liandro.arrays_lists;
+
+public class Aula91 {
+
+	public static void main(String[] args) {
+
+		String vect[] = { "Maria", "Bob", "Alex" };
+
+		for (int i = 0; i < vect.length; i++) {
+			System.out.println(vect[i]);
+		}
+
+		System.out.println("-----------------------");
+
+		for (String obj : vect) {
+			System.out.println(obj);
+		}
+
+	}
+
+}
