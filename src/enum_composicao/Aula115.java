@@ -20,10 +20,10 @@ public class Aula115 {
 		System.out.print("Name: ");
 		String workerName = sc.nextLine();
 		System.out.print("Level: ");
-		String workeLevel = sc.nextLine();
+		String workerLevel = sc.nextLine();
 		System.out.print("Base salary: ");
 		double baseSalary = sc.nextDouble();
-		Worker worker = new Worker(workerName, WorkerLevel.valueOf(workeLevel), baseSalary, new Department(departmentName));
+		Worker worker = new Worker(workerName, WorkerLevel.valueOf(workerLevel), baseSalary, new Department(departmentName));
 		
 		System.out.print("How many contracts to this worker? ");
 		int n = sc.nextInt();
