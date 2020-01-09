@@ -28,15 +28,16 @@ public class Aula129 {
 				System.out.print("Width: ");
 				Double width = sc.nextDouble();
 				System.out.print("Height: ");
-				Double height = sc.nextDouble();
-				Rectangle rec = new Rectangle(color, width, height);
-				list.add(rec);
+				Double height = sc.nextDouble(); 
+				list.add(new Rectangle(color, width, height));
 			}
-			if (type == 'c') {
+			else if (type == 'c') {
 				System.out.print("Radius: ");
-				Double radius = sc.nextDouble();
-				Circle circle = new Circle(color, radius);
-				list.add(circle);
+				Double radius = sc.nextDouble(); 
+				list.add(new Circle(color, radius));
+			}
+			else {
+				System.out.println("Invalited!");
 			}
 		}
 		
