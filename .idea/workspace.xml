@@ -23,37 +23,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Aula199A">
-    <configuration name="Aula196" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula196" />
+  <component name="RunManager" selected="Application.Aula203">
+    <configuration name="Aula200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula200" />
       <module name="complete-java-course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula197" />
+    <configuration name="Aula201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula201" />
       <module name="complete-java-course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula198" />
+    <configuration name="Aula201A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula201A" />
       <module name="complete-java-course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula199" />
+    <configuration name="Aula202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula202" />
       <module name="complete-java-course" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula199A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula199A" />
+    <configuration name="Aula203" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.liandro.generics_sets_map.Aula203" />
       <module name="complete-java-course" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,11 +61,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula199A" />
-        <item itemvalue="Application.Aula199" />
-        <item itemvalue="Application.Aula198" />
-        <item itemvalue="Application.Aula197" />
-        <item itemvalue="Application.Aula196" />
+        <item itemvalue="Application.Aula203" />
+        <item itemvalue="Application.Aula202" />
+        <item itemvalue="Application.Aula201A" />
+        <item itemvalue="Application.Aula201" />
+        <item itemvalue="Application.Aula200" />
       </list>
     </recent_temporary>
   </component>
@@ -74,34 +74,34 @@
       <screen x="0" y="0" width="1366" height="735" />
     </state>
     <state x="556" y="29" width="800" height="672" key="#Scopes/0.0.1366.735@0.0.1366.735" timestamp="1582467875380" />
-    <state x="833" y="54" width="374" height="621" key="#com.intellij.ide.util.MemberChooser" timestamp="1582488888634">
+    <state x="833" y="54" width="478" height="621" key="#com.intellij.ide.util.MemberChooser" timestamp="1582594356196">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="833" y="54" width="374" height="621" key="#com.intellij.ide.util.MemberChooser/0.0.1366.735@0.0.1366.735" timestamp="1582488888634" />
-    <state width="640" height="175" key="GridCell.Tab.0.bottom" timestamp="1582497345347">
+    <state x="833" y="54" width="478" height="621" key="#com.intellij.ide.util.MemberChooser/0.0.1366.735@0.0.1366.735" timestamp="1582594356196" />
+    <state width="640" height="175" key="GridCell.Tab.0.bottom" timestamp="1582639680560">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="175" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1582497345347" />
-    <state width="640" height="175" key="GridCell.Tab.0.center" timestamp="1582497345346">
+    <state width="640" height="175" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1582639680560" />
+    <state width="640" height="175" key="GridCell.Tab.0.center" timestamp="1582639680558">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="175" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1582497345346" />
-    <state width="640" height="175" key="GridCell.Tab.0.left" timestamp="1582497345345">
+    <state width="640" height="175" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1582639680558" />
+    <state width="640" height="175" key="GridCell.Tab.0.left" timestamp="1582639680557">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="175" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1582497345345" />
-    <state width="640" height="175" key="GridCell.Tab.0.right" timestamp="1582497345346">
+    <state width="640" height="175" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1582639680557" />
+    <state width="640" height="175" key="GridCell.Tab.0.right" timestamp="1582639680559">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="175" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1582497345346" />
+    <state width="640" height="175" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1582639680559" />
     <state x="374" y="2" key="SettingsEditor" timestamp="1582427245777">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
     <state x="374" y="2" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1582427245777" />
-    <state x="366" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1582467831538">
+    <state x="366" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1582582340395">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="366" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1582467831538" />
+    <state x="366" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1582582340395" />
     <state x="689" y="162" key="run.anything.popup" timestamp="1582496704751">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
